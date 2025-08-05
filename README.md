@@ -1,7 +1,5 @@
 # Scoreazy - Academic Skill Booster
 
-![Scoreazy Hero Banner](https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-
 A responsive landing page for Scoreazy's 1-week intensive revision bootcamp for Class 10 students.
 
 ## ✨ Features
